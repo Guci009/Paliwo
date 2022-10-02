@@ -1,0 +1,16 @@
+C:\Users\4cG1\source\repos\test\test\bin\Debug\test.exe.config
+C:\Users\4cG1\source\repos\test\test\bin\Debug\test.exe
+C:\Users\4cG1\source\repos\test\test\bin\Debug\test.pdb
+C:\Users\4cG1\source\repos\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\4cG1\source\repos\test\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+C:\Users\4cG1\source\repos\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\4cG1\source\repos\test\test\obj\Debug\test.exe
+C:\Users\4cG1\source\repos\test\test\obj\Debug\test.pdb
+C:\Users\Glucio\Desktop\Zadanie 3\test\test\bin\Debug\test.exe.config
+C:\Users\Glucio\Desktop\Zadanie 3\test\test\bin\Debug\test.exe
+C:\Users\Glucio\Desktop\Zadanie 3\test\test\bin\Debug\test.pdb
+C:\Users\Glucio\Desktop\Zadanie 3\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\Glucio\Desktop\Zadanie 3\test\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Glucio\Desktop\Zadanie 3\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Glucio\Desktop\Zadanie 3\test\test\obj\Debug\test.exe
+C:\Users\Glucio\Desktop\Zadanie 3\test\test\obj\Debug\test.pdb
